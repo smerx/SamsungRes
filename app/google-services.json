@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460537272615",
+    "project_id": "infometrikabase",
+    "storage_bucket": "infometrikabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460537272615:android:f9a4feb21d8ddb25657102",
+        "android_client_info": {
+          "package_name": "com.example.baseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460537272615-ccnr8t6345urtr2sbdakqrg9uuc9m3mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baseproject",
+            "certificate_hash": "16fcfc6809644f392460ab56afd6def21c5e465c"
+          }
+        },
+        {
+          "client_id": "460537272615-jck3ssatmns8tt7crfbq6dpcrhmd9lmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUEVsuKWHsfYnEzQtp3xWoRAY3-kK-xAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460537272615-jck3ssatmns8tt7crfbq6dpcrhmd9lmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
